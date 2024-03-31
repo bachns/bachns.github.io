@@ -1,11 +1,11 @@
 ---
 layout: single
 author_profile: true
-title: Tình hình định danh kỹ thuật số (Digital ID - P1)
+title: Tình hình định danh số (Digital ID - P1)
 excerpt: "Ai là ai trên không gian mạng?"
 header:
   overlay_image: /assets/images/digital-id.jpg
-  overlay_filter: 0.55
+  overlay_filter: 0.5
 toc: true
 toc_sticky: true
 ---

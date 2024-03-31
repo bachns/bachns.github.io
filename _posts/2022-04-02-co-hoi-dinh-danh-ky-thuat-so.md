@@ -1,11 +1,11 @@
 ---
 layout: single
 author_profile: true
-title: Cơ hội từ định danh kỹ thuật số (Digital ID - P2)
-excerpt: Yêu cầu bắt buộc để chuyển đổi số
+title: Cơ hội từ định danh số (Digital ID - P2)
+excerpt: Yêu cầu bắt buộc để các chính phủ thực hiện chuyển đổi số
 header:
   overlay_image: /assets/images/digital-id2.jpg
-  overlay_filter: 0.55
+  overlay_filter: 0.5
 toc: true
 toc_sticky: true
 ---
