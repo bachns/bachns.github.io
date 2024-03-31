@@ -4,6 +4,7 @@ author_profile: true
 title: Thách thức của định danh số (Digital ID - P3)
 excerpt: Định danh kỹ thuật số liệu có hoàn toàn là "màu hồng"?
 header:
+  teaser: /assets/images/digital-id3.jpg
   overlay_image: /assets/images/digital-id3.jpg
   overlay_filter: 0.5
 toc: true

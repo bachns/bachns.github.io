@@ -4,7 +4,8 @@ author_profile: true
 title: Quản lý danh tính và truy cập (IAM)
 excerpt: Lỗi kinh hoàng vì có quá nhiều mật khẩu phải nhớ
 header:
-  overlay_image: /assets/images/digital-id2.jpg
+  teaser: /assets/images/iam.jpg
+  overlay_image: /assets/images/iam.jpg
   overlay_filter: 0.5
 toc: true
 toc_sticky: true

@@ -4,6 +4,7 @@ author_profile: true
 title: Tình hình định danh số (Digital ID - P1)
 excerpt: "Ai là ai trên không gian mạng?"
 header:
+  teaser: /assets/images/digital-id.jpg
   overlay_image: /assets/images/digital-id.jpg
   overlay_filter: 0.5
 toc: true
