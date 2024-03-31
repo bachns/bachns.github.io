@@ -3,9 +3,9 @@ permalink: /about-me/
 layout: single
 author_profile: true
 title: About me
-excerpt: "Bạn đang tò mò về tôi?"
+tagline: "Bạn đang tò mò về tôi?"
 header:
-  image: /assets/images/about-me.jpg
+  overlay_image: /assets/images/about-me.jpg
 ---
 
 Xin chào, tôi là Bách Nguyễn, tác giả của blog này. Rất vui vì bạn đã quan tâm đến hành trình tìm hiểu kiến thức của tôi.
