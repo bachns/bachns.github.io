@@ -66,7 +66,7 @@ Hệ thống danh tính kỹ thuật số có thể giảm đáng kể chi phí 
 
 Đặc biệt khi áp dụng các phương pháp tiếp cận cơ sở hạ tầng và nền tảng, các chính phủ có thể triển khai danh tính kỹ thuật số thông qua nền tảng chia sẻ. Xây dựng một hệ thống thống nhất để các cơ quan chính phủ có thể dùng chung và tận dụng để tạo ra các dịch vụ bổ sung mà không cần phải xây dựng hệ thống riêng của họ. Ngoài các lợi ích về ngân sách và thời gian đưa ra xã hội, điều này cho phép khu vực công loại bỏ các hệ thống thừa và có thể giúp giảm bớt việc thu thập dữ liệu không cần thiết. Một hệ thống danh tính kỹ thuật số duy nhất mang lại những lợi thế to lớn về giảm thiểu dữ liệu, có nghĩa là thu thập lượng dữ liệu tối thiểu cần thiết để cung cấp dịch vụ. Trong khi hồ sơ giấy bị phân mảnh ở nhiều cơ quan chính phủ, chắc chắn dẫn đến sự trùng lặp dữ liệu cá nhân, một hệ thống danh tính kỹ thuật số có thể liên kết các “điểm dữ liệu” với nhau ở các cơ quan khác nhau.
 
-## stonia, đi trước một bước
+## Estonia, đi trước một bước
 
 > Estonia đã xây dựng một hệ sinh thái kỹ thuật số, nơi 99% các dịch vụ của chính phủ đã chuyển sang trực tuyến. Nền tảng của hệ sinh thái kỹ thuật số này là định danh điện tử (eID). Định danh điện tử (eID) được tích hợp trong chứng minh thư của Estonia, được cấp lần đầu tiên vào năm 2002 và là một tài liệu định danh bắt buộc đối với công dân Estonia. Bên cạnh mục đích định danh thông thường, thẻ cũng có thể được sử dụng để xác định danh tính của một người trên môi trường điện tử.
 
