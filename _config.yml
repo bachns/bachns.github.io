@@ -104,11 +104,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Bách Nguyễn"
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "Một lập trình viên, yêu công nghệ, thích đọc sách và uống cà phê."
+  location         : "Hà Nội, Việt Nam"
+  email            : "bachns@outlook.com"
+  github           : "bachns"
+  facebook         : "nullbyte0x0000"
+  uri              : "https://bachns.github.io"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
