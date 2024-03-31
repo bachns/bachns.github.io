@@ -1,5 +1,7 @@
 ---
 permalink: /about-me/
+layout: single
+author_profile: true
 title: About me
 excerpt: "Bạn đang tò mò về tôi?"
 header:
