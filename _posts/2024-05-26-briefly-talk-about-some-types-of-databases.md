@@ -23,11 +23,11 @@ Nhóm cơ sở dữ liệu SQL như **MySQL, PostgreSQL** thì thôi khỏi ph�
 
 ### **MongoDB**
 
-**MongoDB** là một cơ sở dữ liệu NoSQL hướng tài liệu, được thiết kế để có thể mở rộng theo chiều ngang bằng cách thêm nhiều máy chủ vào cụm (cluster). Nó hỗ trợ phân chia dữ liệu (sharding) tức là một CSDL lớn được phân chia thành nhiều CSDL nhỏ hơn nằm phân tán ở nhiều node. Điều này cho phép nó có thể xử lý một lượng lớn các request yêu cầu.
+**MongoDB** là một cơ sở dữ liệu NoSQL hướng tài liệu, được thiết kế để có thể mở rộng theo chiều ngang bằng cách thêm nhiều máy chủ vào cụm (cluster). Nó hỗ trợ phân chia dữ liệu (sharding) tức là một CSDL lớn được phân chia thành nhiều CSDL nhỏ hơn nằm phân tán ở nhiều node. Điều này cho phép nó có thể xử lý một lượng lớn các request yêu cầu. Nếu anh em sử dụng các chồng công nghệ MEAN, MERN hay MEVN thì chữ M đầu tiên chính là MogoDB, kiểu gì cũng có nó. Chữ E tiếp theo là Express. A, R, V là Angular, React hoặc Vue. Cuối cùng N là Nodejs.
 
 ## **2. In-memory Databases**
 
-Nhóm cơ sở dữ liệu này là không thể thiếu nếu anh em muốn xây dựng một hệ thống web ở mức độ chuyên nghiệp, hàng triệu người dùng.
+Nhóm cơ sở dữ liệu này là không thể thiếu nếu anh em muốn xây dựng một hệ thống web ở mức độ chuyên nghiệp, có hàng chục nghìn, hàng trăm nghìn, thậm chí triệu người dùng. Cái từ "In-memory" anh em cứ hiểu nó đơn giản là CSDL trong RAM, mà RAM thì truy suất cực nhanh rồi, không chậm như lưu trên ổ đĩa.
 
 ### Redis
 
@@ -59,7 +59,7 @@ Nhóm này khá là mới mẻ và lạ lẫm. Nhưng thôi, kệ đi, kiến th
 
 ### **VoltDB**
 
-**VoltDB** là một cơ sở dữ liệu NewSQL in-memory (trong bộ nhớ) được tối ưu hóa để xử lý giao dịch tốc độ cao. Nó sử dụng kiến trúc phân tán và in-memory để đạt được thông lượng cao, độ trễ thấp cho khối lượng công việc OLTP (Online Transactional Processing).
+**VoltDB** là một cơ sở dữ liệu NewSQL in-memory (trong bộ nhớ) được tối ưu hóa để xử lý giao dịch tốc độ cao. Nó sử dụng kiến trúc phân tán và in-memory để đạt được thông lượng cao, độ trễ thấp cho khối lượng công việc OLTP (Online Transactional Processing). Anh em để ý chữ "Online Transactional" là biết luôn mục đích sử dụng chủ yếu của nó rồi.
 
 ## **5. Columnar Databases**
 
