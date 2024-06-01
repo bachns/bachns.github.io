@@ -9,8 +9,6 @@ toc: true
 toc_sticky: true
 ---
 
-# Nói nhanh về một số CSDL
-
 Nhóm cơ sở dữ liệu SQL như **MySQL, PostgreSQL** thì thôi khỏi phải nói vì nó đã quá rõ và phổ biến rồi. Chúng ta sẽ chỉ nói về những cái mới mẻ và lạ lẫm thôi.
 
 ## 1. NoSQL Databases
