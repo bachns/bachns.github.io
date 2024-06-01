@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "vi-VN"
 title                    : "bachns"
 title_separator          : "-"
-subtitle                 : "Kiến thức - Chia sẻ - Sách và Cà phê" # site tagline that appears below site title in masthead
+subtitle                 : "Hành trình vươn tới những vì sao" # site tagline that appears below site title in masthead
 name                     : "Bách Nguyễn"
 description              : "Nơi chia sẻ những kiến thức về lập trình và công nghệ trong hành trình khám phá tri thức của bachns"
 url                      : "https://bachns.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
