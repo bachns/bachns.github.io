@@ -4,7 +4,7 @@ author_profile: true
 title: Databases nào có thể xử lý hơn 10,000 request mỗi giây
 excerpt: Hãy tỉnh táo lựa chọn CSDL đúng trước khi lưu trữ bất cứ cái gì
 header:
-  image: /assets/images/database.webp
+  image: /assets/images/database.jpg
 ---
 
 # Databases nào có thể xử lý hơn 10,000 request mỗi giây
