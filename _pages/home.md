@@ -10,8 +10,6 @@ header:
 
 Xin chào, tôi là Bách Nguyễn, tác giả của blog này. Rất vui vì bạn đã quan tâm đến hành trình tìm hiểu kiến thức của tôi.
 
-{{ content }}
-
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}
