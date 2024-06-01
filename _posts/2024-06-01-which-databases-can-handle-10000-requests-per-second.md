@@ -7,8 +7,6 @@ header:
   image: /assets/images/database.jpg
 ---
 
-# Databases nào có thể xử lý hơn 10,000 request mỗi giây
-
 Trước hết cần phải nói rằng:
 
 1. Trừ khi anh em có dữ liệu lớn và phức tạp, còn không, anh em sẽ không bao giờ đạt đến giới hạn về khả năng của bất kỳ CSDL nào. Ngay cả với CSDL đơn giản như SQLite.
