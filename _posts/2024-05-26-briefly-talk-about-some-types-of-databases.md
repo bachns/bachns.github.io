@@ -4,7 +4,7 @@ author_profile: true
 title: Nói nhanh về một số CSDL
 excerpt: Phân loại và kể một số loại cơ sở dữ liệu mới lạ
 header:
-  image: /assets/images/leadspace.png
+  image: /assets/images/database.jpg
 toc: true
 toc_sticky: true
 ---
