@@ -4,9 +4,7 @@ author_profile: true
 title: Nói nhanh về một số CSDL
 excerpt: Phân loại và kể một số loại cơ sở dữ liệu mới lạ
 header:
-  teaser: /assets/images/database.webp
-  overlay_image: /assets/images/database.webp
-  overlay_filter: 0.5
+  image: /assets/images/leadspace.png
 toc: true
 toc_sticky: true
 ---
