@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 title: Phân biệt jdbc_page_size và jdbc_fetch_size trong Input Plugin JDBC của Logstash
 header:
-  image: /assets/images/elk-stack.webp
+  image: /assets/images/elk-stack.jpg
 ---
 
 `jdbc_page_size` và `jdbc_fetch_size` là hai tùy chọn cấu hình trong input plugin JDBC của Logstash, nhưng chúng có vai trò khác nhau trong việc quản lý cách dữ liệu được tải từ cơ sở dữ liệu:
