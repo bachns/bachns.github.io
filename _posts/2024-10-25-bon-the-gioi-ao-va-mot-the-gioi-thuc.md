@@ -7,13 +7,11 @@ header:
   image: /assets/images/cryptography-feature.jpg
 ---
 
-# Bốn thế giới ảo và một thế giới thực
-
-Tác giả: Thầy _Phan Dương Hiệu_.
+Tác giả: Thầy **Phan Dương Hiệu**
 
 Gần 20 năm trước, Russell Impagliazzo đưa ra định nghĩa rất thú vị về 5 thế giới khác nhau (cseweb.ucsd.edu/~russell/average.ps). Chúng ta sống ở một trong 5 thế giới đó, nhưng không biết chắc mình sống trong thế giới nào. Gần 20 năm trôi qua, vẫn chưa có thế giới nào chia tay chúng ta. Hiện vẫn đang có 4 thế giới ảo và một thế giới thực quanh ta, và ta không biết là mình đang ở đâu.
 
-Đến một ngày, nếu có anh hùng nào may mắn chứng minh chúng ta đang thực sự sống ở đâu, thì cũng là ngày tận thế của 4 thế giới ảo còn lại, điều đó thật buồn và những người còn lại thật kém may... Chẳng hạn một chứng minh P=NP sẽ là ngày tận thế của 4 thế giới. Tuy nhiên, ta sẽ thấy rằng, một chứng minh P khác NP thì chỉ làm 1 thế giới tận thế và vẫn còn lại 4 thế giới lung linh :) Vì vậy, nếu Bụt hiện xuống và cho chọn giữa “ P=NP” hay “P khác NP” thì mình sẽ chọn P khác NP ^\_^
+Đến một ngày, nếu có anh hùng nào may mắn chứng minh chúng ta đang thực sự sống ở đâu, thì cũng là ngày tận thế của 4 thế giới ảo còn lại, điều đó thật buồn và những người còn lại thật kém may... Chẳng hạn một chứng minh P=NP sẽ là ngày tận thế của 4 thế giới. Tuy nhiên, ta sẽ thấy rằng, một chứng minh P khác NP thì chỉ làm 1 thế giới tận thế và vẫn còn lại 4 thế giới lung linh :smile: Vì vậy, nếu Bụt hiện xuống và cho chọn giữa “ P=NP” hay “P khác NP” thì mình sẽ chọn P khác NP :laughing:
 
 Impagliazzo minh họa 5 thế giới một cách rất xuất sắc để ai cũng hiểu được, thông qua câu chuyện tưởng tượng giữa thầy giáo Grouse và cậu học trò Gauss. Cậu trò Gauss thông minh nổi tiếng, trên lớp thầy giao bài nào cũng giải ngon ơ rồi rỗi rãi chọc phá các bạn làm thầy giáo rất là phiền lòng. Ông thầy Grouse quyết tâm tìm những bài toán siêu khó để nhằm mục đích làm cho Gauss bớt kiêu.
 
@@ -28,6 +26,8 @@ Và do đó dẫn tới 5 thế giới theo định nghĩa của Impagliazzo:
 **Thế giới Minicrypt** là nơi tồn tại hàm một chiều one-way function nhưng không tồn tại mã hóa khóa công khai (public-key encryption). Cuối cùng cũng đã tới một thế giời mà ông Grouse có thể hài lòng: ông có thể ra những bài toán khó, Gauss không thể giải được và ông thì đĩnh đạc trình bày lời giải cho cả lớp! Tuy thế, ông chưa thật thỏa mãn, vì Gauss tuy không giải được, nhưng các bạn khác cũng chẳng ai giải được nên Gauss vẫn còn có thể tinh tướng.
 
 **Thế giới Cryptomania** là nơi tồn tại mã hóa khóa công khai (public-key encryption). Với sự tồn tại mã hóa khóa công khai, ông thầy Grouse có thể dạy cho Gauss một bài học nhớ đời. Sự tồn tại mã hóa khóa công khai cũng có nghĩa là hai bên có thể trao đổi những thông điệp bí mật với nhau mà không cần phải chia sẻ, thống nhất bất cứ thông tin bí mật nào trước, và sự trao đổi là hoàn toàn công khai. Ở thế giới Cryptomania, ông thầy không những có thể ra những bài toán khó làm Gauss không thể giải được mà còn có thể đưa ra các gợi ý trên bảng để cho tất cả các học sinh đều giải được, trừ Gauss. Đây quả là một tình huống lý tưởng - Gauss trở thành cậu học sinh duy nhất trong lớp không giải được bài!
+
+![](/assets/images/maths.png)
 
 ## Nói riêng về mật mã
 
