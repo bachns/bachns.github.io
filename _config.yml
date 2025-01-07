@@ -24,7 +24,7 @@ author:
   avatar           : "bachns.jpeg"
   name             : "Bách Nguyễn"
   pronouns         : # example: "she/her"  
-  bio              : "Một lập trình viên, yêu công nghệ, thích đọc sách và uống cà phê"
+  bio              : "Một lập trình viên, yêu công nghệ, thích đọc sách và uống cà phê."
   location         : "Hà Nội, Việt Nam"
   employer         : # "Red Brick University"
   uri              : # URL
@@ -64,7 +64,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : # URL
+  telegram         : https://t.me/bachns
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username

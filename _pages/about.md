@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Xin chào, tôi là Bách Nguyễn, tác giả của blog này. Rất vui vì bạn đã quan tâm đến hành trình tìm hiểu kiến thức của tôi. 
+Xin chào, tôi là Bách Nguyễn (Mr. Robot), tác giả của blog này. Rất vui vì bạn đã quan tâm đến hành trình tìm hiểu kiến thức của tôi. 
 
 ## Về blog này
 
