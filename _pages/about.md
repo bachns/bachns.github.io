@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bạn đang tò mò về tôi"
+title: "Bạn đang tò mò về tôi ?"
 author_profile: true
 redirect_from: 
   - /about/
